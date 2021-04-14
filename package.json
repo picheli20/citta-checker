@@ -1,0 +1,16 @@
+{
+  "name": "citta-checker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node script.js"
+  },
+  "author": "Fabio Picheli",
+  "license": "ISC",
+  "dependencies": {
+    "better-logging": "^4.5.0",
+    "node-notifier": "^9.0.1",
+    "puppeteer": "^8.0.0"
+  }
+}
